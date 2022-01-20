@@ -5,7 +5,8 @@ Togethr is a Tinder-like social app designed to connect individuals with similar
  Users are first prompted to login or register. To register an account the user needs a valid email to which email confirmation is sent. Within the app, users can perform [CRUD operations](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete). That is, users can create, edit, delete, like and view events, RSVP or cancel RSVPs, and edit their own user details (change user, pass, etc). 
 
 This app features the popular card swiping mechanism found in many dating apps combined with beautiful and simple black, white, and purple UI making the user experience quite comfortable. 
-</br>**Tools:** React/React Native, JavaScript, Express.js, Node.js, Digital Ocean, MongoDB, Visual Studio, 
+
+**Tools:** React/React Native, JavaScript, Express.js, Node.js, Digital Ocean, MongoDB, Visual Studio, 
 GitHub, Windows OS
 
 **How to run:** </br>
