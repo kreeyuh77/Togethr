@@ -8,5 +8,5 @@ This app features the popular card swiping mechanism found in many dating apps c
 </br>**Tools:** React/React Native, JavaScript, Express.js, Node.js, Digital Ocean, MongoDB, Visual Studio, 
 GitHub, Windows OS
 
-**How to run:** 
+**How to run:** </br>
 _This application is no longer being served or maintained_
